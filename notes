@@ -1,0 +1,6 @@
+Program No: 6
+In this program we are using Setter method to achieve loose coupling.
+So every class in this project is loosely coupled except the Test class.
+So this is the best approach but not fully loosely couple.
+So to achieve fully loosely coupling we have to go for Properties files and using properties collection we can make our classes
+fully loosely coupled to see the solution refer:""
